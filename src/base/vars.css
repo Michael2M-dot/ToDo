@@ -1,0 +1,12 @@
+:root {
+    /* background colors */
+    --bg-black-gray: #202020;
+
+    /* text colors */
+    --tx-white: #FFFFFF;
+    --tx-red: #EE3465;
+
+    /* layout colors */
+    --layout-grey: #AAAAAA;
+    --layout-white: #FFFFFF;
+}
