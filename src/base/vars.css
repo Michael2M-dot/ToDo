@@ -1,10 +1,13 @@
 :root {
     /* background colors */
     --bg-black-gray: #202020;
+    --bg-medium-gray: #2F2F2F;
+    --bg-blue: #4285F4;
 
     /* text colors */
     --tx-white: #FFFFFF;
     --tx-red: #EE3465;
+    --tx-gray: #8B8B8B;
 
     /* layout colors */
     --layout-grey: #AAAAAA;

@@ -1,0 +1,20 @@
+.button {
+    min-width: 90px;
+    margin: 0;
+    padding: 9px 11px;
+
+    /*position: absolute;*/
+    /*top:7px;*/
+    /*right:7px;*/
+
+    border: none;
+    border-radius: 48px;
+
+    background: var(--bg-blue);
+
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 18px;
+    text-align: center;
+    color: var(--tx-white);
+}
