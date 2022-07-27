@@ -77,9 +77,9 @@
 }
 
 @media screen and (max-width: 1279px) {
-    .page_page-404 {
-        padding: 408px 184px 222px;
-    }
+    /*.page_page-404 {*/
+    /*    padding: 408px 184px 222px;*/
+    /*}*/
 }
 
 @media screen and (max-width: 767px) {
