@@ -33,7 +33,7 @@ const App = () => {
       <div className="page__container">
           <Routes>
               <Route exact path="/" element={<Main/>} />
-              <Route path="/toDo" element={
+              <Route path="toDo" element={
                   <ToDoList
                       initialToDolist={toDoList}
                   />
